@@ -3,9 +3,11 @@
 Code and data for the ACL 2023 paper: https://aclanthology.org/2022.coling-1.48/
 
 *Note: All the data can be found [here](https://drive.google.com/drive/folders/1-1b1wgocLxS-QRkUGIjr3Wr8wWtyu3H6?usp=sharing).*
+*Note: All the T5/BART requirements can be found [here](https://github.com/huggingface/transformers/tree/main/examples/pytorch/summarization).*
 
-## 1. About the Notebook
-- Notebook ```CoHS_CQG_Context_History_Selection.ipynb``` contains codes to shorten the context and history in the CoQA dataset. 
+## 1. About the two Notebooks
+- Notebook ```CoHS_CQG_Context_History_Selection.ipynb``` contains codes to shorten the context and history in the CoQA dataset.
+- Notebook ```T5_BART_CoQA.ipynb``` contains sample codes to train BART/T5 models.
 
 ## 2. Pre-requisites Softwares
 Please check the two notebooks for different setups.
